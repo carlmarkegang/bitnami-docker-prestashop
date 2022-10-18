@@ -3,7 +3,7 @@
 ## Start and install container
 To start the container run  
 `docker-compose up -d`  
-using the terminal/powershell in the folder containing docker-compose.yml.  
+using the terminal/powershell in the folder containing `docker-compose.yml`.  
   
 View progress in Docker desktop -> go to container -> logs (Might take over 10 minutes to run first time).  
 The container might quit when installations is done, just start it again if it happens.
