@@ -23,7 +23,7 @@ Password: bitnami1
 Add this line to increase the timeout to 100 seconds  
 `ini_set('max_execution_time', 100);`  
 
-In the end of C:\Users\DPJ\Desktop\bitnami-docker-prestashop\prestashop-persistence\config\config.inc.php
+In the end of `C:\Users\DPJ\Desktop\bitnami-docker-prestashop\prestashop-persistence\config\config.inc.php`
 
 ## More information
 See https://github.com/bitnami/bitnami-docker-prestashop
