@@ -15,10 +15,9 @@ The path to /prestashop-persistence can be changed without problem
 ## Navigate to server
 After installation is done, navigate to: http://localhost/
 
-Admin:  
-http://localhost/administration  
-username: user@example.com  
-password: bitnami1  
+Admin: http://localhost/administration  
+Username: user@example.com  
+Password: bitnami1  
 
 ## Timeout issue
 Add this line to increase the timeout to 100 seconds  
