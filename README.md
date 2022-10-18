@@ -1,4 +1,4 @@
-# PrestaShop Docker by Bitnami
+# PrestaShop docker-compose by Bitnami
 
 ## Start and install container
 To start the container run  
