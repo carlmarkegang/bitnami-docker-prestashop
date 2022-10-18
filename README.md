@@ -6,7 +6,7 @@ To start the container run
 using the terminal/powershell in the folder containing `docker-compose.yml`.  
   
 View progress in Docker desktop -> go to container -> logs (Might take over 10 minutes to run first time).  
-The container might quit when installations is done, just start it again if it happens.
+The container will exit when installations is done, just start it again when it happens.
 
 ## Folder name
 Do not rename "prestashop-persistence" in docker-compose.yml, this folder name tells the installer that you want to mount the files.  
