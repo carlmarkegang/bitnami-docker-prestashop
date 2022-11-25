@@ -22,6 +22,9 @@ services:
       - PRESTASHOP_DATABASE_NAME=bitnami_prestashop
       # ALLOW_EMPTY_PASSWORD is recommended only for development.
       - ALLOW_EMPTY_PASSWORD=yes
+      - PRESTASHOP_COUNTRY=sv
+      - PRESTASHOP_LANGUAGE=sv
+      - PHP_MAX_EXECUTION_TIME=500
     volumes:
       - 'C:/Users/DPJ/Desktop/bitnami-docker-prestashop/prestashop-persistence:/bitnami/prestashop'
     depends_on:
